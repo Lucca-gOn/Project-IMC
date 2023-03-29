@@ -1,0 +1,15 @@
+C:\Users\51021784826\Desktop\Project-IMC\bin\Debug\net7.0\Project-IMC.exe
+C:\Users\51021784826\Desktop\Project-IMC\bin\Debug\net7.0\Project-IMC.deps.json
+C:\Users\51021784826\Desktop\Project-IMC\bin\Debug\net7.0\Project-IMC.runtimeconfig.json
+C:\Users\51021784826\Desktop\Project-IMC\bin\Debug\net7.0\Project-IMC.dll
+C:\Users\51021784826\Desktop\Project-IMC\bin\Debug\net7.0\Project-IMC.pdb
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.csproj.AssemblyReference.cache
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.dll
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\refint\Project-IMC.dll
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.pdb
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\Project-IMC.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Project-IMC\obj\Debug\net7.0\ref\Project-IMC.dll
